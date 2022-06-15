@@ -1,4 +1,4 @@
-module.exports = {
+exports = {
   env: {
     browser: true,
     es2021: true,
@@ -37,4 +37,4 @@ module.exports = {
     'react/display-name': 'off',
     'react/prop-types': 'off',
   },
-};
+}
